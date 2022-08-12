@@ -20,9 +20,9 @@
 	<url type="contact">https://twitter.com/ZetsubouGames</url>
 	<launchable type="desktop-id">games.zetsubou.MaxMassacre.desktop</launchable>
 	<releases>
-		<release version="1.2" date="2022-05-22">
+		<release version="1.2.1" date="2022-08-12">
 			<description>
-				<p>Version 1.2.0 is a maintenance release. It doesn't add any new story content to the game.</p>
+				<p>Version 1.2.1 is the initial flatpak build</p>
 			</description>
 		</release>
 	</releases>
@@ -30,23 +30,23 @@
 	<developer_name>Zetsubou Games</developer_name>
 	<screenshots>
 		<screenshot type="default">
-			<image type="source" width="1920" height="1080">https://raw.githubusercontent.com/koroshiya/mm-flatpak/main/screenshots/1.jpg</image>
+			<image type="source" width="1600" height="900">https://raw.githubusercontent.com/koroshiya/mm-flatpak/main/screenshots/1.jpg</image>
                         <image type="thumbnail" width="800" height="450">https://raw.githubusercontent.com/koroshiya/mm-flatpak/main/thumbnails/1.jpg</image>
 		</screenshot>
 		<screenshot>
-			<image type="source" width="1920" height="1080">https://raw.githubusercontent.com/koroshiya/mm-flatpak/main/screenshots/2.jpg</image>
+			<image type="source" width="1600" height="900">https://raw.githubusercontent.com/koroshiya/mm-flatpak/main/screenshots/2.jpg</image>
                         <image type="thumbnail" width="800" height="450">https://raw.githubusercontent.com/koroshiya/mm-flatpak/main/thumbnails/2.jpg</image>
 		</screenshot>
 		<screenshot>
-			<image type="source" width="1920" height="1080">https://raw.githubusercontent.com/koroshiya/mm-flatpak/main/screenshots/3.jpg</image>
+			<image type="source" width="1600" height="900">https://raw.githubusercontent.com/koroshiya/mm-flatpak/main/screenshots/3.jpg</image>
                         <image type="thumbnail" width="800" height="450">https://raw.githubusercontent.com/koroshiya/mm-flatpak/main/thumbnails/3.jpg</image>
 		</screenshot>
 		<screenshot>
-			<image type="source" width="1920" height="1080">https://raw.githubusercontent.com/koroshiya/mm-flatpak/main/screenshots/4.jpg</image>
+			<image type="source" width="1600" height="900">https://raw.githubusercontent.com/koroshiya/mm-flatpak/main/screenshots/4.jpg</image>
                         <image type="thumbnail" width="800" height="450">https://raw.githubusercontent.com/koroshiya/mm-flatpak/main/thumbnails/4.jpg</image>
 		</screenshot>
 		<screenshot>
-			<image type="source" width="1920" height="1080">https://raw.githubusercontent.com/koroshiya/mm-flatpak/main/screenshots/5.jpg</image>
+			<image type="source" width="1600" height="900">https://raw.githubusercontent.com/koroshiya/mm-flatpak/main/screenshots/5.jpg</image>
                         <image type="thumbnail" width="800" height="450">https://raw.githubusercontent.com/koroshiya/mm-flatpak/main/thumbnails/5.jpg</image>
 		</screenshot>
 	</screenshots>

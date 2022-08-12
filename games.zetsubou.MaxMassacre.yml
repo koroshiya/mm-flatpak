@@ -31,4 +31,4 @@ modules:
         sha512: 57e63f76ed49b223a60511c74516076be14f5ece60d9eae5889b02a4be22ea84ba3d65f515eeeb4675de67f0ec2b51d88eadf73640642b4ab9a83799dfbc0c48
       - type: file
         path: games.zetsubou.MaxMassacre.metainfo.xml
-        sha512: 19254955c6b5ccc3bb258792b9bfb448a4d274cd26ec06d5c1cff33ce5d92e52a40d1c6110d4e531dccb0e2bbab81649c2a18c8f5bd4f263f8ffba0110bc6714
+        sha512: 38ab5a3cbaec93382221bfee78d83da4c262e9a51b8dddbb4b10b38a409371c4824e1bab18474eede9965c5210ee06b24d7acd1874b83a8fc45304136c09a70b
